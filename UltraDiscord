@@ -1,10 +1,7 @@
 /**
-* @name ChannelTabs
-* @displayName ChannelTabs
-* @source https://github.com/samfundev/BetterDiscordStuff/blob/master/Plugins/ChannelTabs/ChannelTabs.plugin.js
-* @donate https://paypal.me/samfun123
-* @authorId 76052829285916672
-* @version 2.6.9
+* @name UltraDiscord
+* @displayName UltraDiscord
+* @version 1.0.1
 */
 /*@cc_on
 @if (@_jscript)
@@ -34,30 +31,26 @@ module.exports = (() => {
 	
 	const config = {
 		info: {
-			name: "ChannelTabs",
+			name: "UltraDiscord",
 			authors: [
 				{
-					name: "l0c4lh057",
-					discord_id: "226677096091484160",
-					github_username: "l0c4lh057",
-					twitter_username: "l0c4lh057"
+					name: "AlOraill3GrosBiceps ._.",
+					github_username: "AlOraill3Biscoto",
+					twitter_username: "AlOraill3Biscoto"
 				},
 				{
-					name: "CarJem Generations",
-					discord_id: "519397452944769025",
-					github_username: "CarJem",
-					twitter_username: "carter5467_99"
+					name: "",
+					github_username: "",
+					twitter_username: ""
 				},
 				{
-					name: "samfundev",
-					discord_id: "76052829285916672",
-					github_username: "samfundev",
+					name: "",
+					discord_id: "",
+					github_username: "",
 				}
 			],
-			version: "2.6.9",
+			version: "1.0.1",
 			description: "Allows you to have multiple tabs and bookmark channels",
-			github: "https://github.com/samfundev/BetterDiscordStuff/blob/master/Plugins/ChannelTabs/",
-			github_raw: "https://raw.githubusercontent.com/samfundev/BetterDiscordStuff/master/Plugins/ChannelTabs/ChannelTabs.plugin.js"
 		},
 		changelog: [
 			{
